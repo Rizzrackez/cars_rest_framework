@@ -1,2 +1,2 @@
-# cars_rest_framework
-application on Dajngo rest_framework
+# cars rest framework
+application on Django Rest Framework
