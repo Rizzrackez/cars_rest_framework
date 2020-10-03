@@ -1,2 +1,2 @@
 # cars rest framework
-application on Django Rest Framework
+application on Django Rest framework
